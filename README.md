@@ -1,4 +1,4 @@
-# markov-switching
+# regime-switching
 
 Title:
 
