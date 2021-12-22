@@ -14,3 +14,7 @@ tested on cryptocurrency data over the past year with a three-factor model. The 
 that a moderate number of regimes are optimal based on the Bayesian information criterion and
 that our algorithm has desirable properties, while justifying the choice of factors and providing
 another interpretation of explained asset returns via regime-dependent parameters.
+
+Paper:
+
+See econ419-paper.pdf.
