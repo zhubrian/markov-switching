@@ -18,3 +18,5 @@ another interpretation of explained asset returns via regime-dependent parameter
 Paper:
 
 See econ419-paper.pdf.
+
+Data obtained from https://www.coingecko.com/en and https://home.treasury.gov/.
