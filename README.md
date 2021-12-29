@@ -23,4 +23,4 @@ another interpretation of explained asset returns via regime-dependent parameter
 
 See https://github.com/zhubrian/regime-switching/blob/main/econ419-paper.pdf.
 
-Data obtained from https://www.coingecko.com/en and https://home.treasury.gov/.
+Data obtained from https://www.coingecko.com/en and https://home.treasury.gov/
