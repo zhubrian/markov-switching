@@ -2,7 +2,7 @@
 
 **Context:**
 
-Course project for ECON 419 (Financial Time Series Econometrics) and fall semester component of the senior essay for the B.A. in Economics and Mathematics at Yale University
+Term paper for ECON 419 (Financial Time Series Econometrics) and fall semester component of the senior essay for the B.A. in Economics and Mathematics at Yale University
 
 **Title:**
 
