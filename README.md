@@ -1,10 +1,14 @@
 # regime-switching
 
-Title:
+**Context:**
+
+Course project for ECON 419 (Financial Time Series Econometrics) and fall semester component of the senior essay for the B.A. in Economics and Mathematics at Yale University
+
+**Title:**
 
 Regime-switching factor models for cryptocurrencies
 
-Abstract:
+**Abstract:**
 
 In this paper, we consider a Markov regime-switching factor model with the goal of explaining
 asset returns while considering cyclical patterns present in the market. To estimate the model’s
@@ -15,7 +19,7 @@ that a moderate number of regimes are optimal based on the Bayesian information 
 that our algorithm has desirable properties, while justifying the choice of factors and providing
 another interpretation of explained asset returns via regime-dependent parameters.
 
-Paper:
+**Paper:**
 
 See https://github.com/zhubrian/regime-switching/blob/main/econ419-paper.pdf.
 
